@@ -5,7 +5,7 @@
   "main": "rm.js",
   "bin": {
     "rm-node-modules": "./rm.js"
-  }
+  },
   "keywords": [
     "node_modules",
     "rm",
