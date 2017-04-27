@@ -1,7 +1,7 @@
 {
-  "name": "rm-node-modules",
+  "name": "rm-recur-node-modules",
   "version": "1.0.0",
-  "description": "Recursively delete all node_modules",
+  "description": "Recursively delete node_modules in current directory",
   "main": "rm.js",
   "bin": {
     "rm-node-modules": "./rm.js"
