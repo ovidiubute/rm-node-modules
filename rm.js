@@ -1,5 +1,5 @@
-const execSync = require("child_process").execSync;
+var childProcess = require("child_process");
 
 module.exports = function() {
-  execSync("find . -name \"node_modules\" -exec rm -rf '{}' +");
+  childProcess.execSync("find . -name \"node_modules\" -exec rm -rf '{}' +");
 }
