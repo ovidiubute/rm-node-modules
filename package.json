@@ -13,5 +13,6 @@
     "prune"
   ],
   "author": "Ovidiu Bute <ovidiu.bute@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "preferGlobal": true
 }
