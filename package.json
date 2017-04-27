@@ -1,0 +1,17 @@
+{
+  "name": "rm-node-modules",
+  "version": "1.0.0",
+  "description": "Recursively delete all node_modules",
+  "main": "rm.js",
+  "bin": {
+    "rm-node-modules": "./rm.js"
+  }
+  "keywords": [
+    "node_modules",
+    "rm",
+    "clean",
+    "prune"
+  ],
+  "author": "Ovidiu Bute <ovidiu.bute@gmail.com>",
+  "license": "MIT"
+}
